@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-starter",
+  "description": "An empty eleventy starter for a typical project",
+  "author": {
+    "name": "Steve Jamesson",
+    "url": "https://www.stevejamesson.com/"
+  },
+  "scripts": {
+    "dev": "DEBUG=Eleventy* npx eleventy --serve",
+    "build": "npx eleventy",
+    "clean": "rm -rf dist/*"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  }
+}
