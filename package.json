@@ -1,6 +1,6 @@
 {
   "name": "eleventy-starter",
-  "description": "An empty eleventy starter for a typical project",
+  "description": "A simple Eleventy starter project with separate src/dist directories and a few npm scripts",
   "author": {
     "name": "Steve Jamesson",
     "url": "https://www.stevejamesson.com/"
